@@ -39,6 +39,9 @@ classifiers = [
 ]
 keywords = ["mime-type", "media-type"]
 
+[project.optional-dependencies]
+test = ["pytest"]
+
 [project.urls]
 Homepage = "https://github.com/falconry/python-mimeparse"
 "Issue Tracker" = "https://github.com/falconry/python-mimeparse/issues"
