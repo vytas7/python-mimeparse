@@ -1,4 +1,4 @@
-__version__ = '2.0.0a1'
+__version__ = '2.0.0'
 __author__ = 'Joe Gregorio'
 __email__ = 'joe@bitworking.org'
 __license__ = 'MIT License'

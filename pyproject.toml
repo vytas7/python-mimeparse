@@ -14,6 +14,7 @@ requires-python = ">=3.8"
 description = "A module provides basic functions for parsing mime-type names and matching them against a list of media-ranges."
 license = {text = "MIT"}
 authors = [
+  {name = "Joe Gregorio", email = "joe@bitworking.org"},
   {name = "DB Tsai", email = "dbtsai@dbtsai.com"},
 ]
 maintainers = [
